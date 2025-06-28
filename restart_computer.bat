@@ -1,0 +1,3 @@
+@echo off
+echo Restarting computer to complete network stack reset...
+shutdown /r /t 30 /c "Restarting to complete network stack reset. The computer will restart in 30 seconds."
